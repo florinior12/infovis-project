@@ -1,8 +1,14 @@
 # Information Visualization Course - Netflix Anaylsis
 
+Information Visualization Course Project of MSc students from Unibuc-FMI:
+
+- Cirstoiu Andreea-Ioana - Group 511 (Data Science)
+- Iordache Florin-Nicolae - Group 507 (Artificial Intelligence)
+- Ivan Andrei-David - Group 507 (Artificial Intelligence)
+
 ## Project overview
 
-This project is named “Netflix Analysis” and its purpose is finding stories behind data from the dataset “Netflix Movies and TV Shows” (https://www.kaggle.com/shivamb/netflix-shows)
+This project is named “Netflix Analysis” and its purpose is finding stories behind data from the dataset “Netflix Movies and TV Shows”. It can be found at the following link: https://www.kaggle.com/shivamb/netflix-shows,
 
 The data was built using Flixable - a third-party Netflix search engine. They also provide a report analysing the number of movies and TV shows, providing information about all the productions added to Netflix until the beginning of 2021. Some of the included fields are:
 
