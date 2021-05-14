@@ -6,6 +6,8 @@ Information Visualization Course Project of MSc students from Unibuc-FMI:
 - Iordache Florin-Nicolae - Group 507 (Artificial Intelligence)
 - Ivan Andrei-David - Group 507 (Artificial Intelligence)
 
+**The main notebook is named _NetflixAnalysis-ordered_, this is where we merged all our plots and made our presentation on.**
+
 ## Project overview
 
 This project is named “Netflix Analysis” and its purpose is finding stories behind data from the dataset “Netflix Movies and TV Shows”. It can be found at the following link: https://www.kaggle.com/shivamb/netflix-shows,
